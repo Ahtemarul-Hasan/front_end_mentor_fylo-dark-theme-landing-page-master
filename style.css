@@ -172,11 +172,6 @@ header > img {
     width: 100%;
     background-size: contain;
 }
-/* @media screen and (min-width: 2400px) {
-    .hero {
-        background-size: cover;
-    }
-} */
 @media screen and (min-width: 1440px) {
     .hero {
         background-image: url(images/bg-curvy-mobile.svg);
